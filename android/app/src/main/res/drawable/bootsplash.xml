@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+  <!-- the background color. it can be a system color or a custom one defined in colors.xml -->
+  <item android:drawable="@color/black" />
+  <item
+    android:width="100dp"
+    android:height="100dp"
+    android:drawable="@mipmap/ic_launcher"
+    android:gravity="center" />
+</layer-list>
